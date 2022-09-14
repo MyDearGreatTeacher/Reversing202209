@@ -3,7 +3,7 @@
 # packed binary
 - [Awesome Executable Packing](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md)
 
-- ELFpacker
+- ELFpacker [Packers/Protectors for Linux](https://reverseengineering.stackexchange.com/questions/3184/packers-protectors-for-linux)
   - [packelf](https://github.com/yzfedora/packelf) 
   - ptrace ?
   - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
