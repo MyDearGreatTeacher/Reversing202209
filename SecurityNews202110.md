@@ -1,16 +1,11 @@
-# SecurityTalks202110
+# SecurityNews202110
 
 美國網路司令部（英語：United States Cyber Command USCYBERCOM）
 - [United States Cyber Command (USCYBERCOM)](https://en.wikipedia.org/wiki/United_States_Cyber_Command)
 
-
 惡意程式
-
 - [駭客公布50萬組Fortinet VPN用戶帳號與密碼，74個國家受影響，臺灣第二嚴重](https://www.ithome.com.tw/news/146620)
-
 - [日本農業轉型看上臺灣智慧農機技術，三大茶園AIoT技術落地靜岡實證最快明年產品化](https://www.ithome.com.tw/news/146424)
-
-
 - [企業5G專網如何抵擋惡意基地臺攻擊](https://www.ithome.com.tw/news/144407)
 
 ## Office
@@ -37,9 +32,6 @@ XMRig挖礦軟體
 
 - [勒索軟體即服務 (RaaS) 模式運作的 DarkSide、REvil 和 Avaddon 等三個集團解散]
 - [Conti ransomware](https://news.sophos.com/en-us/2021/02/16/what-to-expect-when-youve-been-hit-with-conti-ransomware/)
--
-- 
--  
 - [俄羅斯的REvil勒索軟體集團](https://www.ithome.com.tw/news/146618)
 - [近期臺灣大型企業接連傳出遭REvil攻擊，該勒索軟體背景與特性為何？TeamT5徹底剖析](https://www.ithome.com.tw/news/144900)
 - [勒索軟體REvil盯上Linux平臺(不只是REvil，包括Babuk、RansomExx/Defray、Mespinoza等勒索軟體) 2021](https://www.ithome.com.tw/news/145324)
@@ -49,9 +41,6 @@ XMRig挖礦軟體
 Emsisoft技術長Fabian Wosar向BleepingComputer透露，把觸角伸進VMware ESXi的並不只是REvil，
 包括Babuk、RansomExx/Defray、Mespinoza、GoGoogle、DarkSide與Hellokitty，也都打造了鎖定ESXi機器的Linux加密工具。
 ```
-
-
-
 - [勒索軟體鎖定農業與食品製造業下手，FBI特別發出公告呼籲各界重視 2021](https://www.ithome.com.tw/news/146563)
 - [勒索軟體Hive鎖定醫療機構、缺乏相關因應措施的企業而來 (2021年6月)](https://www.ithome.com.tw/news/146493)
 - [烤肉爐零售遭勒索軟體攻擊，上櫃貿易百貨業關中公告子公司遭駭](https://www.ithome.com.tw/news/146491)
