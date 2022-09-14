@@ -319,6 +319,8 @@ easyctf{XXXXXXXXXXXXXXX}[Inferior 1 (process 24458) exited with code 01]
   - Chapter 6: Scripting Malware Analysis 
   - Chapter 8: Auditing Program Binaries
   - Chapter 9: Scripting Binary Audits
+  - Chapter 14: Extending Ghidra for Advanced Reverse Engineering  使用miasm
+
 
 ## 學習資源
 - [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc&t=683s)
