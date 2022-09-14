@@ -20,7 +20,8 @@
     - gdb
     - radare2
     - Ghidra 
-- reversing 201
+    - IDA Pro 
+ - reversing 201
   - packed binary
   - 代碼混淆(Obfuscated code)| 花指令
   - https://tool.chinaz.com/tools/jscodeconfusion.aspx
