@@ -5,7 +5,9 @@
 
 - ELFpacker [Packers/Protectors for Linux](https://reverseengineering.stackexchange.com/questions/3184/packers-protectors-for-linux)
   - [packelf](https://github.com/yzfedora/packelf) 
-  - ptrace ?
+  - [shiva]()
+    - [A Security Microcosm Attacking and Defending](https://www.blackhat.com/presentations/bh-asia-03/bh-asia-03-clowes.pdf)
+    - [Reverse Engineering Shiva(2003)](https://www.blackhat.com/presentations/bh-federal-03/bh-federal-03-eagle/bh-fed-03-eagle.pdf)
   - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - CTF
   - CASE STUDY1: [Unpacking UPX Binaries (PicoCTF 2022 #51 'unpackme')](https://www.youtube.com/watch?v=0jVikfySiII) 
