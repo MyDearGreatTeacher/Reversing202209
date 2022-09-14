@@ -1,5 +1,17 @@
 
 
+## miasm@Docker
+
+```
+docker pull miasm/tested
+
+docker run -i -t miasm/base bash
+
+miasm2@8ee98f936055:/opt/miasm2/test$ cd ../example/
+
+miasm2@8ee98f936055:/opt/miasm2/example$ python test_jit_arm.py -j python md5_arm A684
+```
+
 ## miasm@colab
 
 ```
