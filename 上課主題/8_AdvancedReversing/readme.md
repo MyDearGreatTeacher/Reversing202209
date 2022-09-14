@@ -12,6 +12,8 @@ CTF解題
 
 ## Z3
 ## angr
+- [AngryGhidra](https://github.com/Nalen98/AngryGhidra)
+
 ## Triton
 - [Triton:a dynamic binary analysis (DBA) framework](https://triton.quarkslab.com/) [Presentations and Publications](https://triton.quarkslab.com/documentation/)[安裝](https://triton.quarkslab.com/documentation/doxygen/index.html#install_sec)
 - [Triton/ctf-writeups/](https://github.com/JonathanSalwan/Triton/tree/master/src/examples/python/ctf-writeups)
