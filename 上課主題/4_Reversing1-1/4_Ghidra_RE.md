@@ -311,7 +311,14 @@ easyctf{XXXXXXXXXXXXXXX}[Inferior 1 (process 24458) exited with code 01]
 
 - [Ghidra CheatSheet](https://ghidra-sre.org/CheatSheet.html)
 - [The Ghidra Book_The Definitive Guide 官方網站(含有程式碼可下載)+ 可網路購買電子書](https://ghidrabook.com/l)
+  - Chapter 21: Obfuscated Code Analysis
+  - Chapter 22: Patching Binaries
+  - Chapter 23: Binary Differencing and Version Tracking 
 - [Ghidra Software Reverse Engineering for Beginners(2021)](https://www.packtpub.com/product/ghidra-software-reverse-engineering-for-beginners/9781800207974) [[GITHUB]](https://github.com/PacktPublishing/Ghidra-Software-Reverse-Engineering-for-Beginners)
+  - Chapter 5: Reversing Malware Using Ghidra
+  - Chapter 6: Scripting Malware Analysis 
+  - Chapter 8: Auditing Program Binaries
+  - Chapter 9: Scripting Binary Audits
 
 ## 學習資源
 - [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc&t=683s)
