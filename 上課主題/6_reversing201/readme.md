@@ -27,3 +27,4 @@
 
 # anti-reverse
 - [論文Anti-Reverse-Engineering Tool of Executable Files on the Windows Platform](https://ieeexplore.ieee.org/document/8005909)
+- [USENIX Security '21 - U Can't Debug This: Detecting JavaScript Anti-Debugging Techniques in the Wild 觀看次數：395次  2021年9月4日](https://www.youtube.com/watch?v=3rgA8Rk8sCo)
