@@ -13,6 +13,7 @@
 # 代碼混淆(Obfuscated code)| 花指令
 - [Awesome Code Obfuscation](https://github.com/theblackcat102/awesome-code-obfuscation)
 - [Awesome-Obfuscation](https://github.com/MemoryView/Awesome-Obfuscation)
+- [論文Code obfuscation against symbolic execution attacks](https://mediatum.ub.tum.de/doc/1343173/1343173.pdf)
 - javaSCRIPT Obfuscation
   - [JavaScript Obfuscation: The Definitive Guide (2022)]() 
   - [試看看JavaScript Obfuscator Tool](https://obfuscator.io/)
