@@ -1,5 +1,6 @@
 
 # SOFTWARE SUPPLY CHAIN Security 供應鏈安全
+- [ITHOME 供應鏈攻擊系列報導](https://www.ithome.com.tw/tags/%E4%BE%9B%E6%87%89%E9%8F%88%E6%94%BB%E6%93%8A)
 - [北韓駭客集團Lazarus 利用VMware Horizon環境Log4Shell漏洞攻擊美國、加拿大與日本的能源供應商]()
   - Apache Log4j中的Log4Shell漏洞（CVE-2021-44228） 
   - Lazarus集團使用了3種客製化惡意程式，其中的兩款是已知的VSingle與YamaBot，以及新的MagicRAT。
