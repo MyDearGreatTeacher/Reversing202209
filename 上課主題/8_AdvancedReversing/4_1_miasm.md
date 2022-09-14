@@ -42,3 +42,29 @@ symbex = SymbolicExecutionEngine(ira)
 symbex_state = symbex.run_block_at(ira_cfg, start_addr)
 print (symbex_state)
 ```
+
+# https://stackoverflow.com/questions/69694833/frappe-installation-error-attributeerror-module-pyparsing-has-no-attribute
+```
+pip install pyparsing==2.4.2
+```
+
+## 先測試
+```python
+from miasm.analysis.machine import Machine
+
+mn = Machine('x86_32').mn
+
+print(mn.dis('\x33\x30', 32))
+```
+## 改成
+```python
+machine = Machine('x86_64')
+mdis = machine.dis_engine(container.bin_stream, 
+                          loc_db=loc_db)
+ira = machine.ira(mdis.loc_db)
+asm_cfg = mdis.dis_multiblock(start_addr)
+ira_cfg = ira.new_ircfg_from_asmcfg(asm_cfg)
+symbex = SymbolicExecutionEngine(ira)
+symbex_state = symbex.run_block_at(ira_cfg, start_addr)
+print (symbex_state)
+```
