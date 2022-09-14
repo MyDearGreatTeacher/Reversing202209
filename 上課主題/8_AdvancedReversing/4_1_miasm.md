@@ -1,5 +1,6 @@
-
-
+#
+- [Ghidra Software Reverse Engineering for Beginners]()
+  - Chapter 14: Extending Ghidra for Advanced Reverse Engineering
 ## [miasm@Docker](https://registry.hub.docker.com/r/miasm/tested)
 
 ```
