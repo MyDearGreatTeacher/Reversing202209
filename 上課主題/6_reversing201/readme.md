@@ -3,6 +3,9 @@
 # packed binary
 - [Awesome Executable Packing](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md)
 
+- ELFpacker
+  - [packelf](https://github.com/yzfedora/packelf) 
+
 # 代碼混淆(Obfuscated code)| 花指令
 - [Awesome Code Obfuscation](https://github.com/theblackcat102/awesome-code-obfuscation)
 - [Awesome-Obfuscation](https://github.com/MemoryView/Awesome-Obfuscation)
