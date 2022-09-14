@@ -41,5 +41,6 @@
   - c++
   - c# 
 
-##
+## 其他主題
+- Reversing_CTF
 - [Windows Game Hacking with Ghidra and Cheat Engine](https://www.youtube.com/watch?v=Pst-4NwY2is&t=54s)
