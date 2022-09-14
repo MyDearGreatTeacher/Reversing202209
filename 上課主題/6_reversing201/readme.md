@@ -5,6 +5,8 @@
 
 - ELFpacker
   - [packelf](https://github.com/yzfedora/packelf) 
+  - ptrace ?
+  - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
 
 # 代碼混淆(Obfuscated code)| 花指令
 - [Awesome Code Obfuscation](https://github.com/theblackcat102/awesome-code-obfuscation)
