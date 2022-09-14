@@ -22,6 +22,7 @@
 - reversing 201
   - packed binary
   - 代碼混淆(Obfuscated code)| 花指令
+  - https://tool.chinaz.com/tools/jscodeconfusion.aspx
 - advanced reversing 
   - angr
   - z3 
