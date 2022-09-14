@@ -33,6 +33,7 @@
   - Java
   - python
   - go
+  - ruby
   - rust
   - c
   - c++
