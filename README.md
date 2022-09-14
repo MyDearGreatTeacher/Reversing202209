@@ -25,10 +25,12 @@
    - packed binary
    - 代碼混淆(Obfuscated code)| 花指令
      - https://tool.chinaz.com/tools/jscodeconfusion.aspx
-   - anti-debug 
+   - anti-reverse
+     - [論文Anti-Reverse-Engineering Tool of Executable Files on the Windows Platform]()  
 - advanced reversing 
   - angr
   - z3 
+  - [miasm](https://github.com/cea-sec/miasm)
 - reversingall
   - Java
   - python
