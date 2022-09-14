@@ -21,7 +21,7 @@
     - Ghidra 
 - reversing 201
   - packed binary
-  - ob 
+  - 代碼混淆(Obfuscated code)| 花指令
 - advanced reversing 
   - angr
   - z3 
