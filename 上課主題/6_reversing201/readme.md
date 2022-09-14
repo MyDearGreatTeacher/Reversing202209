@@ -9,6 +9,7 @@
   - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - CTF
   - [Unpacking UPX Binaries (PicoCTF 2022 #51 'unpackme')](https://www.youtube.com/watch?v=0jVikfySiII) 
+  - [Unpacking UPX Manually  觀看次數：1,143次  2021年8月30日 ](https://www.youtube.com/watch?v=vR3K2t2UYZY)
 # 代碼混淆(Obfuscated code)| 花指令
 - [Awesome Code Obfuscation](https://github.com/theblackcat102/awesome-code-obfuscation)
 - [Awesome-Obfuscation](https://github.com/MemoryView/Awesome-Obfuscation)
