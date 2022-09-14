@@ -13,7 +13,8 @@
 - reversing 101
   - windows reversing Tool
     - windbg
-    - x64dbg 
+    - x64dbg
+    - IDA Pro 
   - Linux reversing Tool
     - objdump
     - gdb
