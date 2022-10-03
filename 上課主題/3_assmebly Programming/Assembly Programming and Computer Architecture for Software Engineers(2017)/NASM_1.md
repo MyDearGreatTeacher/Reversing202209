@@ -4,6 +4,38 @@
   - [Sample 32-bit nasm programs](https://redirect.cs.umbc.edu/portal/help/nasm/sample.shtml)
   - [Sample 64-bit nasm programs](https://redirect.cs.umbc.edu/portal/help/nasm/sample_64.shtml)
 
+## NASM的語法:[一個符合NASM語法的簡易組合語言檔範例(不含行號)](https://www.csie.ntu.edu.tw/~comp03/nasm-tutorial.html)
+```
+ 1: ;;
+ 2: ;; 在NASM的語法中, 分號後面的部份為註解
+ 3: ;;
+ 4: GLOBAL main                         ; 宣告 main 為全域符號(symbol)
+ 5: EXTERN printf,scanf                 ; 宣告 printf 和 scanf 為外部符號
+ 6: 
+ 7: SECTION .data                       ; 從以下開始為data節區
+ 8: pfmt   DB      '%d', 0x0A, 0
+ 9: sfmt   DB      '%d', 0
+10:
+11: SECTION .bss                        ; 從以下開始為bss節區
+12: buf    RESD    1
+13:
+14: SECTION .text                       ; 從以下開始為text節區
+15: main:                               ; 主函式
+16:        push    ebp
+17:        mov     ebp, esp
+18:        push    buf
+19:        push    sfmt
+20:        call    scanf                ; 呼叫 scanf 函式
+21:        add     esp, 8               ; 清除堆疊中的參數
+22:        mov     eax, DWORD [buf]
+23:        push    eax
+24:        push    pfmt
+25:        call    printf               ; 呼叫 printf 函式
+26:        add     esp, 8
+27:        mov     eax, 0
+28:        leave
+29:        ret                          ; 主函式結束
+```
 ## [Sample 64-bit nasm programs](https://redirect.cs.umbc.edu/portal/help/nasm/sample_64.shtml)
 - Intel X86-64
 - for use with gcc with its libraries and gdb
