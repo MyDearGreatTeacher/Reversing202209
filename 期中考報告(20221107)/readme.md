@@ -18,7 +18,7 @@ Assembly-CTF 解題
 - [Linux ELF 分析]()
 
 
-# 教科書Assembly Programming and Computer Architecture for Software Engineers(2017) 
+### 教科書Assembly Programming and Computer Architecture for Software Engineers(2017) 
 - [簡中譯本:匯編程序設計與電腦體系結構：軟件工程師教程](https://www.tenlong.com.tw/products/9787111615163) 
 - [GITHUB(原始碼)](https://github.com/brianrhall/Assembly)
 - 以x86與x86_64這兩種主流架構為重點
@@ -40,7 +40,7 @@ Assembly-CTF 解題
 - Program 5.3
 - Program 5.4
 ### Chapter 6: Functions
-- Program 6.1
+- Program 6.1 sum
 - Program 6.2
 - Program 6.3
 ### Chapter 7: String Instructions & Structures
