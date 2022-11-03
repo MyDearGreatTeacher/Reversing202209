@@ -4,13 +4,21 @@
 簡報標題: 逆向工程核心語法(組合語言)報告
 Agenda:
 1.逆向工程
-2.Linux ELF 分析
-NASM 組合語言架構
-NASM 組合語言開發
+2.Linux C 程式開發:編譯與組譯
+3.Linux ELF 分析
+4.計算機系統與組合語言
+  Intel/AMD架構 vs ARM 架構
+  組合語言語法格式: AT&T vs INTEL
+  32位元計算機與64位元計算機
+    - registers
+  32位元組合語言與64位元組合語言
+    - Function calling convention 
+5.NASM 組合語言架構
+6.NASM 組合語言開發
  32位元NASM 組合語言範例
  64位元NASM 組合語言範例
-NASM 組合語言實戰(以分析的程式技術與數量評分)
-Assembly-CTF 解題
+7.NASM 組合語言實戰(以分析的程式技術與數量評分)
+8.Assembly-CTF 解題
 ```
 # 龍大大錄影
 - [NASM與組合語言開發入門](https://youtu.be/1aWERf19I5A)
