@@ -1,5 +1,10 @@
 # Reversing202209
 
+## 期中考相關事項(1107)
+
+- 各位同學先準備你的其他期中考科目
+- 本星期六在開始準備本科目的期中報告
+
 # 上課 Google Meet
 
 1020 https://meet.google.com/ydf-jzop-vxd
