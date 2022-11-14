@@ -6,6 +6,8 @@ Agenda:
 1.逆向工程
 2.Linux C 程式開發:編譯與組譯
 3.Linux ELF 分析
+　使用readelf分析Linux ELF
+  使用objdump分析Linux ELF
 4.計算機系統與組合語言
   Intel/AMD架構 vs ARM 架構
   組合語言語法格式: AT&T vs INTEL
@@ -14,7 +16,8 @@ Agenda:
   32位元組合語言與64位元組合語言
     - Function calling convention 
 5.NASM 組合語言架構
-6.NASM 組合語言開發
+  https://cs.lmu.edu/~ray/notes/nasmtutorial/
+6.NASM 組合語言開發: hello
  32位元NASM 組合語言範例
  64位元NASM 組合語言範例
 7.NASM 組合語言實戰(以分析的程式技術與數量評分):教科書程式碼的錄影(下周)
@@ -51,6 +54,7 @@ Agenda:
 - Program 6.1 Sum Program
 - Program 6.2 C++
 - Program 6.3 Sum Program
+
 ### Chapter 7: String Instructions & Structures
 - Program 7.1
 - Program 7.2
