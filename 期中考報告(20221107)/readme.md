@@ -23,11 +23,7 @@ Agenda:
 7.NASM 組合語言實戰(以分析的程式技術與數量評分):教科書程式碼的錄影(下周)
 8.Assembly-CTF 解題
 ```
-# 龍大大錄影
-- [NASM與組合語言開發入門](https://youtu.be/1aWERf19I5A)
-- [編譯與組譯](https://youtu.be/oWugDwITzLg)
-- [Linux ELF 分析](https://youtu.be/gjcgiL0i02Q)
-- [期中考報告錄影說明11.14](https://youtu.be/G-EqiKtVf4U)
+
 
 ### 教科書Assembly Programming and Computer Architecture for Software Engineers(2017) 
 - [簡中譯本:匯編程序設計與電腦體系結構：軟件工程師教程](https://www.tenlong.com.tw/products/9787111615163) 
