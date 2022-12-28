@@ -1,6 +1,7 @@
 # 範例試題
-## [EasyCTF 2017_LuckyGuess]()
-- [題目下載]()
+## [EasyCTF 2017_LuckyGuess]
+- [題目下載](https://github.com/MyDearGreatTeacher/Reversing202209/blob/main/Data/LuckyGuess)
+- [[教學錄影]使用objdump解題]() 
 - 使用Ghidra解題 
 
 ## [InCTF Junior　blade]()
