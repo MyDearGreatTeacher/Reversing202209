@@ -11,3 +11,11 @@
 - [題目下載](https://github.com/MyDearGreatTeacher/Reversing202209/blob/main/Data/adder)
 - 使用Ghidra解題 
 - 使用RADARE2解題 : [easyCTF-2018-Adder](https://github.com/asinggih/easyCTF-2018-writeups/blob/master/Reverse_Engineering/Adder.md)
+
+
+# 其他考題
+## easyCTF-2018  Hexedit - 50 points
+- [題目下載](https://github.com/MyDearGreatTeacher/Reversing202209/blob/main/Data/hexedit)
+- [解答](https://github.com/asinggih/easyCTF-2018-writeups/blob/master/Reverse_Engineering/hexedit.md)
+##  
+- [題目下載]()
