@@ -1,9 +1,6 @@
 # Reversing202209
 
-## 期中考相關事項(1107)  [youtube錄影說明]()
 
-- 各位同學先準備你的其他期中考科目
-- 本星期六在開始準備本科目的期中報告
 
 # 上課 Google Meet
 
@@ -57,3 +54,9 @@
   - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
   - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [Windows Game Hacking with Ghidra and Cheat Engine](https://www.youtube.com/watch?v=Pst-4NwY2is&t=54s)
+
+
+## 期中考相關事項(1107)  [youtube錄影說明]()
+
+- 各位同學先準備你的其他期中考科目
+- 本星期六在開始準備本科目的期中報告
