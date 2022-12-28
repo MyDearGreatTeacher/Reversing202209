@@ -16,7 +16,11 @@
 - 6.報告題目:ghidra逆向工程實務
 - 7.報告題目:IDA PRO逆向工程實務
  
-
-## TryHackMe Simple CTF練習
+# 網路錄影教學
+## TryHackMe Simple CTF
 - [TryHackMe Simple CTF題目網站](https://tryhackme.com/room/easyctf)
 - 解答1:[TryHackMe Simple CTF Official Walkthrough](https://www.youtube.com/watch?v=mItfrdyE1U4)
+
+## Linux Backdoors
+- [TryHackMe Linux Backdoors網站](https://tryhackme.com/room/linuxbackdoors)
+- 解答1:[TryHackMe Linux Backdoors Official Walkthrough](https://www.youtube.com/watch?v=-xHk7N3vF-A)
