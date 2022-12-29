@@ -19,7 +19,7 @@
 - 5.報告題目:radare2逆向工程實務
   - 教學錄影
 - 6.報告題目:ghidra逆向工程實務
-  - 教學錄影
+  - [教學錄影](https://youtu.be/LdGIV7hxnyk)
 - 7.報告題目:IDA PRO逆向工程實務
   - 學長錄影
   
