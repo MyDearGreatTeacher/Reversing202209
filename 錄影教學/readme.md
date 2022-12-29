@@ -11,7 +11,7 @@
   - 教學錄影[NASM與組合語言開發入門](https://youtu.be/1aWERf19I5A)
   - [組合語言實務]待錄影
 - 3.報告題目:objdump逆向工程實務
-  - 教學錄影
+  - [教學錄影](https://youtu.be/vN6GJn1co7U)
 - 4.報告題目:gdb逆向工程實務
   - 教學錄影
   - 範例解題:[[教科書Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly,Dennis Andriesse]](https://www.tenlong.com.tw/products/9781593279127) [[Github]](https://github.com/wilvk/practical-binary) [[官方網站:下載ova及code]](https://practicalbinaryanalysis.com/)
