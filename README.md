@@ -4,7 +4,7 @@
 
 # 上課 Google Meet
 
-1020 https://meet.google.com/ydf-jzop-vxd
+
 
 
 # 測試環境下載
