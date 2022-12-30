@@ -11,6 +11,8 @@
 - [KALI 2019](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
 - [Ubuntu 18.04LTS](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
 
+# [逆向工程 – 從入門到放棄 系列](https://ithelp.ithome.com.tw/users/20117397/ironman/3619)
+
 # 學習主題
 
 - Programming C 
