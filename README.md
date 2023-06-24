@@ -1,11 +1,6 @@
 # Reversing202209
 
-
-
 # 上課 Google Meet
-
-https://meet.google.com/zvz-yrfw-jvi
-
 
 # 測試環境下載
 - [KALI 2019](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
